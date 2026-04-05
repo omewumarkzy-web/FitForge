@@ -1,2 +1,0 @@
-# FitForge
-Fitness App
